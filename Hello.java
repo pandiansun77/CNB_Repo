@@ -1,1 +1,4 @@
-Class car {}
+Class car {
+  int i=10;
+  int j=20;  
+}
